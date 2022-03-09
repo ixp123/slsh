@@ -4,7 +4,9 @@ slsh: Spicy Little SHell
 Objectives:
 
 [] cd with no arguments is aliased to the $USER home directory
+
 [] extended prompt funtionality (i.e. hostname, cwd, etc. being displayed on the prompt)
+
 [] CTRL+L and other bindings
 
 # Why another shell?
